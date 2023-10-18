@@ -5,3 +5,5 @@ Interactive simulation showing the user how a seating arrangement will look like
 ## For website access 
 
 ## Updates and Announcements
+
+### October 18, 2023
