@@ -9,5 +9,6 @@ Interactive simulation showing the user how a seating arrangement will look like
 Beta Version 1 launched! This release includes simulations for a large-size movie theater. Stay updated for Versions 2 and 3, which will include simulations for a basketball arena as well as a concert. 
 
 ## Previews
+
 <img width="1031" alt="Screenshot 2023-10-18 at 11 18 57 AM" src="https://github.com/Neelov12/SEET./assets/121204601/78480148-f104-4e17-9373-3a6f142889fe">
 
