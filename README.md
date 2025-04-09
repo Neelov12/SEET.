@@ -6,7 +6,7 @@ Interactive simulation showing the user how a seating arrangement will look like
 ## Updates and Announcements
 
 ### October 18, 2023
-Beta Version 1 launched! This release includes simulations for a large-size movie theater. Stay updated for Versions 2 and 3, which will include simulations for a basketball arena as well as a concert. 
+Beta Version 1 launched! This release includes simulations for a large-size movie theater. Stay updated for Versions 2 and 3, which will include simulations for a basketball arena as well as a concert.
 
 ## Previews
 
